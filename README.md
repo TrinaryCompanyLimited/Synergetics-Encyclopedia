@@ -1,4 +1,4 @@
-# Synergetics-Ensyclopedia
+# Synergetics-Encyclopedia
 ![alt text](Screenshots/title.png "Description goes here")
 ------------------------------------------------------------------------------------------------------------------------------------------
 (An Encyclopedia of Buckminster Fuller's synergetics)
