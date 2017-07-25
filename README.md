@@ -1,5 +1,5 @@
 # Synergetics-Encyclopedia
-![alt text](Screenshots/title.png "Description goes here")
+![alt text](Screenshots/synergy.png "Description goes here")
 ------------------------------------------------------------------------------------------------------------------------------------------
 (An Encyclopedia of Buckminster Fuller's synergetics)
 
