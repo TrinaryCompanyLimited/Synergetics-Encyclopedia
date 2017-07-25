@@ -3,7 +3,7 @@ An Encyclopedia of Buckminster Fuller's synergetics
 
 
 My name is Solomon Yaw Adeklo. I am curently studying a BSC in Information Technology at Valley View University in Ghana.I am always 
-fascinated by Buckminster Fuller's inventions and concepts. One of the concepts that Buckminster Fuller developed was Synergetics. Fuller invented this mathematical and scientific concept (Synergetics) to correct the error in the present day mathematical coordinate system which was modeled around the theory that the world was a flat land and its horizontal plane extended towards a meaningless infinity( the XYZ cordinate system). Buckminster Fuller had to do a thorough experimentation to discover the most rational coordinate system of the universe and that discovery led him to invent nature's most friendly building structure thus "the geodesic dome." I decided to build an encyclopedia to publish that accumulated and authoritative knowledge on this subject (Synergetics) 
+fascinated by Buckminster Fuller's inventions and concepts. One of the concepts that Buckminster Fuller developed was Synergetics. Fuller invented this mathematical and scientific concept (Synergetics) to correct the error in the present day mathematical coordinate system which was modeled around the theory that the world was a flat land and its horizontal plane extended towards a meaningless infinity( the XYZ cordinate system). Buckminster Fuller had to do a thorough experimentation to discover the most rational coordinate system of the universe and that discovery led him to invent nature's most friendly building structure thus "the geodesic dome." I decided to build an Enclopedia that contains information on  Fuller's  Synergetics concept. 
 
 Synergetics is the system of holistic thinking which R. Buckminster Fuller introduced and began to formulate.
 Synergetics is multi-faceted: it involves geometric modeling, exploring inter-relationships in the facts of experience
@@ -15,6 +15,8 @@ and design and therefore has applications in all areas of human endeavor.
 To study Synergetics visit http://www.rwgrayprojects.com/synergetics/toc/toc.html
 
 This project dubbed "Synergetics Encyclopedia" is an ongoing development that is built with the C# programming language. It is open source and I am looking forward to collaborating with any Developer to help make this project a success.
+
+Requirements : Visual Studion 2012
 
 
 ![alt text](Screenshots/Synergetics1.PNG "Description goes here")
