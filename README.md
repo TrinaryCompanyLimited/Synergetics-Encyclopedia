@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 (An Encyclopedia of Buckminster Fuller's synergetics)
 
-My name is Solomon Yaw Adeklo. I am curently studying a BSC in Information Technology at Valley View University in Ghana.I am always 
+My name is Solomon Yaw Adeklo. I am currently studying a BSC in Information Technology at Valley View University in Ghana.I am always 
 fascinated by Buckminster Fuller's inventions and concepts. One of the concepts that Buckminster Fuller developed was Synergetics. Fuller invented this mathematical and scientific concept (Synergetics) to correct the error in the present day mathematical coordinate system which was modeled around the theory that the world was a flat land and its horizontal plane extended towards a meaningless infinity( the XYZ cordinate system). Buckminster Fuller had to do a thorough experimentation to discover the most rational coordinate system of the universe and that discovery led him to invent nature's most friendly building structure thus "the geodesic dome." I decided to build an Encylopedia that contains information on  Fuller's  Synergetics concept. 
 
 Synergetics is the system of holistic thinking which R. Buckminster Fuller introduced and began to formulate.
