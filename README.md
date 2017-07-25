@@ -17,7 +17,7 @@ To study Synergetics visit http://www.rwgrayprojects.com/synergetics/toc/toc.htm
 
 This project dubbed "Synergetics Encyclopedia" is an ongoing development that is built with the C# programming language. It is open source and I am looking forward to collaborating with any Developer to help make this project a success.
 
-Requirements : Visual Studion 2012
+Requirements : Visual Studio 2012
 
 
 ![alt text](Screenshots/Synergetics1.PNG "Description goes here")
