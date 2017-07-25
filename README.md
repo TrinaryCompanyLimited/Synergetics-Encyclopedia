@@ -12,8 +12,9 @@ coordinating Universe (both physically and metaphysically).Synergetics provides 
 and design and therefore has applications in all areas of human endeavor.
 
 "Synergetics, in the broadest terms, is the study of spatial complexity, and as such is an inherently comprehensive discipline. ... Experience with synergetics encourages a new way of approaching and solving problems. Its emphasis on visual and spatial phenomena combined with Fuller's holistic approach fosters the kind of lateral thinking which so often leads to creative breakthroughs."
+To study Synergetics visit http://www.rwgrayprojects.com/synergetics/toc/toc.html
 
-This project dubbed "Synergetics Encyclopedia" is an ongoing development that is built with the C# programming language. It is open source and I am looking forward to collaborating with any Developer to help make this project a sucess.
+This project dubbed "Synergetics Encyclopedia" is an ongoing development that is built with the C# programming language. It is open source and I am looking forward to collaborating with any Developer to help make this project a success.
 
 
 ![alt text](Screenshots/Synergetics1.PNG "Description goes here")
