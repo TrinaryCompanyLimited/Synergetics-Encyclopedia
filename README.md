@@ -7,3 +7,5 @@ and the process of thinking. Synergetics endeavors to identify and understand th
 coordinating Universe (both physically and metaphysically).Synergetics provides a method and a philosophy for problem-solving
 and design and therefore has applications in all areas of human endeavor.
 
+![alt text](Screenshots/Synergetics1.png "Description goes here")
+
