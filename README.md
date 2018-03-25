@@ -24,3 +24,5 @@ Requirements : Visual Studio 2012
 ![alt text](Screenshots/Synergetics2.PNG "Description goes here")
 ![alt text](Screenshots/Synergetics3.PNG "Description goes here")
 
+API key-7MkYO5e0sZQoYGZlnEW7gXJWwKPpUPlR
+API key2- EHpuicIx0fxPIxnoduZ71iZDwVfMM4yh
